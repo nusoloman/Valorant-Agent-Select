@@ -43,7 +43,7 @@ def kb():
             time.sleep(1)
             file1.close()
             
-        if keyboard.is_pressed("f"):
+        if keyboard.is_pressed("g"):
             sys.exit()
             
     
